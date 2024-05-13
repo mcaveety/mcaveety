@@ -1,12 +1,10 @@
 ## Hi, i'm Michelle
 
-### Currently, I am
+### I am
 + an Undergraduate majoring in Computer Engineering at the Univeristy of South Florida 🤘
-+ an Intern at Chainguard for Developer Education 🧑‍💻
++ an Intern at Chainguard for Developer Enablement 🧑‍💻
 
-### Check out some of my hobby projects [@meepowlz](https://github.com/meepowlz)
-
-
+[Find me on LinkedIn!](https://www.linkedin.com/in/mcaveety/)
 <!--
 **mcaveety/mcaveety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
